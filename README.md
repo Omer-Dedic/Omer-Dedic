@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi, I’m Omer! I’m a passionate 17-year-old IT technician with a strong foundation in web development, app creation, photography, and graphic design.
+Hi, I’m Omer! I’m a passionate 18-year-old IT technician with a strong foundation in web development, app creation, photography, and graphic design.
 Currently, I’m in my third year of high school in Bihac, and I’m always eager to learn new technologies and push my skills further.
 
 💻 Tech & Creative Skills
